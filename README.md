@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raheel Afzal</h1>
-<h3 align="center">A passionate frontend developer from Karachi , Pakistan.</h3>
+<h3 align="center">A passionate frontend developer from Karachi,Pakistan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raheelafzal98" alt="raheelafzal98" /></a> </p>
-
-- 🌱 I’m currently learning **CLOUD NATIVE ARTIFICIAL INTELLIGENCE**
+- 🌱 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
 
 - 👯 I’m looking to collaborate on **frontend and Agentic AI Projects**
 
