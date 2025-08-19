@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12442%2Fhd-vector-flat-linkedin-in-round-icon-png&psig=AOvVaw0faCbbf0oMd1ciov8qOU7N&ust=1755694976777000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODmms_3lo8DFQAAAAAdAAAAABAE](https://www.linkedin.com/in/raheel-afzal/)" target="blank"><img align="center" alt="https://www.linkedin.com/in/raheel-afzal/" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/raheel-afzal/)" target="blank"><img align="center" alt="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F12442%2Fhd-vector-flat-linkedin-in-round-icon-png&psig=AOvVaw0faCbbf0oMd1ciov8qOU7N&ust=1755694976777000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODmms_3lo8DFQAAAAAdAAAAABAE]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
